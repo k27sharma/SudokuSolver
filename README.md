@@ -13,5 +13,7 @@ This is a program which solves 9x9 Sudoku puzzles. Written completely in JAVA an
  -  Once downloaded, compiled and run; the program will require the user to input the Sudoku puzzle into it. The user has to input the values manually one-by-one when     the program is running.
  -  A dialog box (also shown below) looking like a sudoku will appear on your screen . 
     
+    ![Sudoku Box](sudoku box.png)
+    
     
 
