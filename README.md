@@ -1,11 +1,11 @@
 # Introduction
 This is a program written entirely in JAVA which deals with Sudoku Puzzles. This program solves Soduku puzzle of any kind.
 # Contents
-* <a href="Sudoku Solver">Sudoku Solver</a>
-  - <a href="Getting Started (Usage)">Getting Started (Usage)</a>
-  - <a href="Lgorithm Behind Puzzle">Algorithm Behind Puzzle</a>
-  - <a href="Add-Ons">Add-Ons</a>
-* <a href=" Tools"> Tools</a>
+* [Sudoku Solver](#sudoku-solver)
+    * [Getting Started (Usage)](#getting-started)
+    * [Algorithm Behind Puzzle](#algorithm-behind-puzzle)
+    * [Add-Ons](#add-ons)
+* [Tools](#tools)
 # Sudoku Solver
 This is a program which solves 9x9 Sudoku puzzles. Written completely in JAVA and built wholly from scratch, this program reads input  from a user  and solves the puzzle. It employs concepts such as backtracking and recursion.
 ## Getting Started
